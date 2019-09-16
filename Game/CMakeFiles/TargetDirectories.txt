@@ -1,0 +1,3 @@
+/home/siumauricio/Documentos/Programacion 3/Progra3_Game_Template/Game/CMakeFiles/rebuild_cache.dir
+/home/siumauricio/Documentos/Programacion 3/Progra3_Game_Template/Game/CMakeFiles/MyGame.dir
+/home/siumauricio/Documentos/Programacion 3/Progra3_Game_Template/Game/CMakeFiles/edit_cache.dir
